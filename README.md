@@ -1,5 +1,5 @@
 
-# Text classification [Blog Link](https://github.com/ishaan007/vector_space_modelling/tree/master/Doc2Vec%20Model)
+# Text classification [Blog Link](https://medium.com/@IshaanArora95/document-feature-extraction-and-classification-53f0e813d2d3#.3maxyvobf)
 
 ### Document classification 
             a. Feature extraction
